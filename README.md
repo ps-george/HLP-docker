@@ -27,7 +27,6 @@ Share additional directories with your Docker vscode instance by adding the foll
 ### Dependencies included
 
 - fsharp via the [official fsharp docker image](https://hub.docker.com/_/fsharp)
-- vscode server 1.1156-vsc1.33.1. Check https://github.com/cdr/code-server/releases/latest for update.
-- ionide.Ionide-fsharp extension
+- vscode server 1.1156-vsc1.33.1 - check https://github.com/cdr/code-server/releases/latest for lastest version.
 - [nvm](https://github.com/nvm-sh/nvm) Node version manager
 - [yarn](https://yarnpkg.com/lang/en/) Yarn package manager
